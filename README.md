@@ -23,7 +23,7 @@ O projeto aborda desde a criação desta base de dados, a sua modelagem de dados
 
  ### Página 1:
 
-• **Lucro total e lucro tonal nos anos anteriores**
+• **Lucro total em todo o período **
 
 • **Lucro na última semana**
 
