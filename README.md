@@ -57,3 +57,7 @@ Limpeza de Dados:  **Power Query** para limpar e organizar a base de dados .
 Visualização de Dados: **Power BI** para visualizar as descobertas e tornar os dados facilmente acessíveis e compreensíveis.
 
 
+
+https://github.com/RodrigoAislan/Dashboard_de_vendas_com_base_de_dados_criada_com_Python/assets/172406590/4bb83b73-ea52-4698-a764-dd6e0e90ec87
+
+
