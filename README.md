@@ -12,7 +12,7 @@ Neste projeto, uma base de dados utilizando a linguagem python foi criada. A bas
 
   O relacionamento utilizado entre as tabelas é apresentado abaixo:
   
-- ![image](https://github.com/RodrigoAislan/Dashboard_de_vendas_com_base_de_dados_criada_com_Python/assets/172406590/0277515d-c612-4f6d-ac9d-4b930e636106)
+  ![image](https://github.com/RodrigoAislan/Dashboard_de_vendas_com_base_de_dados_criada_com_Python/assets/172406590/0277515d-c612-4f6d-ac9d-4b930e636106)
 
 
 O projeto aborda desde a criação desta base de dados, a sua modelagem de dados através da criação de relacionamentos entre as tabelas, até a elaboração dos visuais dentro do Power BI.
