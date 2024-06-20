@@ -57,9 +57,11 @@ O projeto aborda desde a criação desta base de dados, a sua modelagem de dados
 
 Para a realização deste projeto, as seguintes ferramentas foram utilizadas:
 
-Limpeza de Dados:  **Power Query** para limpar e organizar a base de dados .
+**Python**, para criação da base de dados
 
-Visualização de Dados: **Power BI** para visualizar as descobertas e tornar os dados facilmente acessíveis e compreensíveis.
+**Power Query** para limpar e organizar a base de dados .
+
+**Power BI** para visualizar as descobertas e tornar os dados facilmente acessíveis e compreensíveis.
 
 
 
